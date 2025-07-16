@@ -23,7 +23,7 @@ A **Java-based Pharmacy Billing System** using **JDBC** and **MySQL**. This proj
 
 ## **Project Structure**
 ```
-Java_Project/
+Pharmacy-Billing-System/
 │
 ├── src/
 │   └── Pharmacy.java          # Main Java file
